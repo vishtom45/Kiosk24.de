@@ -3,7 +3,7 @@
 
  **** EXECUTABLE ****
 
- Run the html front-end to see the models in action.
+ Run the html front-end to see the models in action. Add viable values for the field.
 
  **** CODE *****
 
